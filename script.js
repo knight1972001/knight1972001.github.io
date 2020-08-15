@@ -207,8 +207,3 @@ function ShowCheese() {
         mid.appendChild(card);
     }
 }
-
-function orderProblem() {
-    let order = document.getElementById('orderProblemInput');
-    order.setAttribute('type', 'text');
-}
